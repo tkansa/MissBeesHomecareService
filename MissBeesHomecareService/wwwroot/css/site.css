@@ -6,8 +6,9 @@
 }
 
 .bee {
-    height: 150px;
-    width: 150px;
+    height: 40px;
+    width: 40px;
+    padding-right: 10px;
 }
 
 /*img {
@@ -94,15 +95,21 @@ body {
         justify-content: center;
     }
 
+    .bee {
+        height: 125px;
+        width: 125px;
+        padding-right: 15px;
+    }
+
     .photos {
         display: flex;
         height: 200px;
         width: auto;
     }
-    img {
+    /*img {
         height: 200px;
         width: auto;
-    }
+    }*/
 }
 
 
